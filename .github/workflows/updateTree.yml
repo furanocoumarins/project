@@ -1,0 +1,22 @@
+name: update tree
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Create new file
+        run: |
+          tree > ".tree.txt"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
