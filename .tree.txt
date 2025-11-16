@@ -23,6 +23,7 @@
 │   ├── в практику для admet (6).docx
 │   └── инструкция докинг AutoDock Vina.odt
 ├── results
+│   ├── results.md
 │   ├── автоматизация
 │   └── ручная работа
 │       ├── Angelicin_and_protein
@@ -61,4 +62,4 @@
 └── targets
     └── targets.md
 
-12 directories, 50 files
+12 directories, 51 files
