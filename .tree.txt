@@ -22,7 +22,43 @@
 │   ├── Сетевой_график_проекта_Диаграмма_Ганта.pptx
 │   ├── в практику для admet (6).docx
 │   └── инструкция докинг AutoDock Vina.odt
+├── results
+│   ├── results.md
+│   └── ручная работа
+│       ├── Angelicin_and_protein
+│       │   ├── 604X_H.pdb
+│       │   ├── 604X_ligand_vina_out.pdbqt
+│       │   ├── 604X_receptor.box.pdb
+│       │   ├── 604X_receptor.box.txt
+│       │   ├── 604X_receptor.pdbqt
+│       │   ├── Angelicin_CID_10658.pdbqt
+│       │   └── Angelicin_CID_10658.sdf
+│       ├── Phellopterin_and_protein
+│       │   ├── 604X_ligand_vina_out.pdbqt
+│       │   ├── 604X_receptor.box.pdb
+│       │   ├── 604X_receptor.box.txt
+│       │   ├── 604X_receptor.pdbqt
+│       │   ├── Phellopterin_CID_98608.pdbqt
+│       │   └── Phellopterin_CID_98608.sdf
+│       └── Псорален и белок
+│           ├── 2 акт. центр (VAl 282)
+│           │   ├── 604X_H.pdb
+│           │   ├── 604X_ligand_vina_out.pdbqt
+│           │   ├── 604X_ligand_vina_out1.pdbqt
+│           │   ├── 604X_receptor.box.pdb
+│           │   ├── 604X_receptor.box.txt
+│           │   ├── 604X_receptor.pdbqt
+│           │   └── psoralen_CID_6199.pdbqt
+│           ├── 604X_H.pdb
+│           ├── 604X_ligand_vina_out.pdbqt
+│           ├── 604X_no_water.pdb
+│           ├── 604X_receptor.box.pdb
+│           ├── 604X_receptor.box.txt
+│           ├── 604X_receptor.pdbqt
+│           ├── 6O4X.pdb
+│           ├── psoralen_CID_6199.pdbqt
+│           └── psoralen_CID_6199.sdf
 └── targets
     └── targets.md
 
-5 directories, 21 files
+11 directories, 51 files
