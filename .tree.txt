@@ -23,7 +23,7 @@
 │   ├── в практику для admet (6).docx
 │   └── инструкция докинг AutoDock Vina.odt
 ├── results
-│   ├── results.md
+│   ├── README.md
 │   ├── автоматизация
 │   └── ручная работа
 │       ├── Angelicin_and_protein
