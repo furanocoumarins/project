@@ -1,22 +1,16 @@
-name: update tree
-
+name: Create diagram
 on:
+  workflow_dispatch: {}
   push:
     branches:
-      - main 
-
+      - main
 jobs:
-  build:
+  get_data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Create new file
-        run: |
-          tree > ".tree.txt"
-
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v7
+      - name: Checkout code
+        uses: actions/checkout@master
+      - name: Update diagram
+        uses: githubocto/repo-visualizer@main
+        with:
+          excluded_paths: "ignore,.github"
