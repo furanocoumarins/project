@@ -1,6 +1,6 @@
 .
 ├── README.md
-├── articles
+├── Источники
 │   ├── agbo2020.pdf
 │   ├── articles.md
 │   ├── cimb-46-00055.pdf
@@ -11,18 +11,7 @@
 │   ├── main.pdf
 │   ├── s0031-9422(96)00703-0 -- 7402ae33da0e85eb19e04ccee64d3054 -- Anna’s Archive.pdf
 │   └── статья_про_хим_структуру_кумаринов.pdf
-├── furanocoumarins
-│   └── furanocumarins.md
-├── manuals
-│   ├── TutorialsBook.pdf
-│   ├── manuals.md
-│   ├── Инструкция(1).docx
-│   ├── Лекция по тайм-менеджменту дл.pptx
-│   ├── Проведение_молекулярного_докинга.docx
-│   ├── Сетевой_график_проекта_Диаграмма_Ганта.pptx
-│   ├── в практику для admet (6).docx
-│   └── инструкция докинг AutoDock Vina.odt
-├── results
+├── Результаты
 │   ├── README.md
 │   ├── автоматизация
 │   └── ручная работа
@@ -59,9 +48,20 @@
 │           ├── 6O4X.pdb
 │           ├── psoralen_CID_6199.pdbqt
 │           └── psoralen_CID_6199.sdf
-├── services
+├── Руководства
+│   ├── TutorialsBook.pdf
+│   ├── manuals.md
+│   ├── Инструкция(1).docx
+│   ├── Лекция по тайм-менеджменту дл.pptx
+│   ├── Проведение_молекулярного_докинга.docx
+│   ├── Сетевой_график_проекта_Диаграмма_Ганта.pptx
+│   ├── в практику для admet (6).docx
+│   └── инструкция докинг AutoDock Vina.odt
+├── Сервисы
 │   └── services.md
-└── targets
+├── Фуранокумарины (кандитаты)
+│   └── furanocumarins.md
+└── Целевые молекулы
     └── targets.md
 
 13 directories, 52 files
