@@ -39,4 +39,4 @@ CYP2B6, CYP2C8 (все = 1.0)
 абилен в микросомах печени
 ```
 
-[admet свойства](../admet/ksa.pdf)
+[admet свойства](admet/ksa.pdf)

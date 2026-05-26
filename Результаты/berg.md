@@ -48,4 +48,4 @@
 ветствует правилам Липински, Пфайзера, GSK
 ```
 
-[admet свойства](../admet/berg.pdf)
+[admet свойства](admet/berg.pdf)

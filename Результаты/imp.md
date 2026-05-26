@@ -74,4 +74,4 @@ olden Triangle: соответствует
 8: 16 (норма ≥45)
 ```
 
-[admet свойства](../admet/imp.pdf)
+[admet свойства](admet/imp.pdf)

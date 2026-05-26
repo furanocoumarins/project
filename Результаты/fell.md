@@ -57,4 +57,4 @@ CYP3A4 (0.981), CYP2C8 (0.863)
   Хошее кишечное всасывание (HIA: 0.031)
 ```
 
-[admet свойства](../admet/fell.pdf)
+[admet свойства](admet/fell.pdf)
